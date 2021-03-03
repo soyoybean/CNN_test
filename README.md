@@ -1,6 +1,6 @@
 # cnntest
 
-A new Flutter project.
+A Flutter project to test implementation of a CNN model with TensorFlow Lite.
 
 ## Getting Started
 
